@@ -1,8 +1,8 @@
 import streamlit as st
 from openai import OpenAI
 
-# ✅ OpenAI istemcisini tanımla
-client = OpenAI(api_key="WRITE HERE API KEY")
+
+client = OpenAI(api_key="WRITE HERE THE API")
 
 st.title("🤖 AI Görüşme Asistanı (GPT-3.5 Turbo)")
 

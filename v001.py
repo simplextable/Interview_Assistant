@@ -1,7 +1,8 @@
 import streamlit as st
 import openai
 
-openai.api_key = "WRITE HERE API KEY"
+
+openai.api_key = "WRITE HERE THE API"
 
 st.title("🤖 AI Görüşme Asistanı (GPT-3.5 Turbo)")
 
